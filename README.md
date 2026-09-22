@@ -48,8 +48,7 @@ The plain adversarially trained ResNet-18 is the strongest design in these exper
 ├── results/                every measurement behind the thesis and paper (JSON, CSV, logs)
 ├── checkpoints/            put model weights here (see checkpoints/README.md)
 ├── scripts/reproduce.sh    the exact command sequence
-├── requirements.txt
-└── CITATION.cff
+└── requirements.txt
 ```
 
 ## The three original models and the retrained networks
