@@ -1,0 +1,5 @@
+torch==2.6.0
+torchvision==0.21.0
+torchattacks==3.5.1
+numpy>=2.0
+scikit-learn>=1.5

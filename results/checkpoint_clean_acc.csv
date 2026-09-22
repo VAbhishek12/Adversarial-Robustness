@@ -1,0 +1,22 @@
+checkpoint,clean_acc_pct,note
+baseline_cnn_cifar10.pth,74.79,
+best_secure_resnet34_pgd20.pth,65.05,
+best_secure_resnet34_pgd5.pth,17.23,
+best_securecnn.pth,90.24,
+secure_cnn_checkpoint_epoch30.pth,n/a,architecture differs: RuntimeError
+secure_cnn_epoch30.pth,n/a,architecture differs: RuntimeError
+secure_resnet34_pgd20_epoch_10.pth,57.39,
+secure_resnet34_pretrained_pgd3_epoch_10.pth,81.79,
+secure_resnet34_pretrained_pgd3_epoch_15.pth,83.01,
+secure_resnet34_pretrained_pgd3_epoch_5.pth,70.94,
+securecnn_epoch_100.pth,90.24,
+securecnn_epoch_50.pth,86.33,
+securecnn_epoch_55.pth,89.19,
+securecnn_epoch_60.pth,88.65,
+securecnn_epoch_65.pth,87.97,
+securecnn_epoch_70.pth,88.44,
+securecnn_epoch_75.pth,89.46,
+securecnn_epoch_80.pth,89.77,
+securecnn_epoch_85.pth,90.11,
+securecnn_epoch_90.pth,89.92,
+securecnn_epoch_95.pth,90.30,

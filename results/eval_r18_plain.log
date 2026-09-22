@@ -1,0 +1,2 @@
+r18_plain PGD done {'clean': 78.06, 'pgd20_8_full': 49.18, 'pgd20_sweep_2000': {'2': 71.85, '4': 65.1, '8': 49.1, '12': 33.45, '16': 18.85}} 735s
+r18_plain clean acc 78.06 F1 77.68 | PGD8 acc 49.15 F1 47.73 | ASR8 36.8 | crit-eps mean 14.85 | 9.7 min

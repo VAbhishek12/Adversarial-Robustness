@@ -1,0 +1,6 @@
+r18_noblur clean 76.14
+r18_noblur pgd20_8_full 47.32
+r18_noblur pgd20_sweep_2000 {'2': 69.4, '4': 62.7, '8': 47.35, '12': 30.75, '16': 17.6}
+r18_noblur final {'clean': 76.25, 'pgd20_8': 47.1}
+r18_noblur DONE {"clean": 76.14, "pgd20_8_full": 47.32, "pgd20_sweep_2000": {"2": 69.4, "4": 62.7, "8": 47.35, "12": 30.75, "16": 17.6}, "final": {"clean": 76.25, "pgd20_8": 47.1}, "params_M": 16.408626, "MACs_M": 630.920192, "latency_ms": 2.890588000000207, "autoattack_4": NaN} 5.3 min
+r18_noblur clean acc 76.14 F1 75.66 | PGD8 acc 47.25 F1 45.70 | ASR8 38.0 | crit-eps mean 14.65 | 2.7 min

@@ -1,0 +1,3 @@
+r18_plain autoattack_8 44.7
+r18_plain final {'clean': 77.75, 'pgd20_8': 49.1}
+r18_plain DONE {"clean": 78.06, "pgd20_8_full": 49.18, "pgd20_sweep_2000": {"2": 71.85, "4": 65.1, "8": 49.1, "12": 33.45, "16": 18.85}, "autoattack_8": 44.7, "final": {"clean": 77.75, "pgd20_8": 49.1}, "params_M": 11.686962, "MACs_M": 555.42272, "latency_ms": 2.748042000002897, "autoattack_4": NaN} 2.3 min

@@ -1,0 +1,2 @@
+SecureCNN (orig.) clean acc 90.24 F1 90.23 | PGD8 acc 5.65 F1 5.85 | ASR8 93.7 | crit-eps mean 4.22 | 22.3 min
+SecureResNet34 (orig.) clean acc 83.01 F1 82.96 | PGD8 acc 0.55 F1 0.57 | ASR8 99.3 | crit-eps mean 3.36 | 29.7 min

@@ -1,0 +1,19 @@
+# environments and caches
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# data and weights (too large for git; see README.md and checkpoints/README.md)
+data/*
+!data/.gitkeep
+checkpoints/*
+!checkpoints/.gitkeep
+!checkpoints/README.md
+*.pt
+*.pth
+
+# editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db

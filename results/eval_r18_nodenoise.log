@@ -1,0 +1,6 @@
+r18_nodenoise clean 75.82
+r18_nodenoise pgd20_8_full 46.55
+r18_nodenoise pgd20_sweep_2000 {'2': 69.1, '4': 61.85, '8': 46.45, '12': 30.7, '16': 16.75}
+r18_nodenoise final {'clean': 75.3, 'pgd20_8': 46.45}
+r18_nodenoise DONE {"clean": 75.82, "pgd20_8_full": 46.55, "pgd20_sweep_2000": {"2": 69.1, "4": 61.85, "8": 46.45, "12": 30.7, "16": 16.75}, "final": {"clean": 75.3, "pgd20_8": 46.45}, "params_M": 11.687538, "MACs_M": 556.012544, "latency_ms": 2.651218000000881, "autoattack_4": NaN} 5.1 min
+r18_nodenoise clean acc 75.82 F1 75.38 | PGD8 acc 46.45 F1 44.82 | ASR8 38.3 | crit-eps mean 14.28 | 2.5 min

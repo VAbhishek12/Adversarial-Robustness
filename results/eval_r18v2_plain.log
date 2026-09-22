@@ -1,0 +1,7 @@
+r18v2_plain clean 73.57
+r18v2_plain pgd20_8_full 47.74
+r18v2_plain pgd20_sweep_2000 {'2': 68.2, '4': 61.6, '8': 47.8, '12': 33.9, '16': 20.05}
+r18v2_plain autoattack_8 44.1
+r18v2_plain final {'clean': 75.4, 'pgd20_8': 48.0}
+r18v2_plain DONE {"clean": 73.57, "pgd20_8_full": 47.74, "pgd20_sweep_2000": {"2": 68.2, "4": 61.6, "8": 47.8, "12": 33.9, "16": 20.05}, "autoattack_8": 44.1, "final": {"clean": 75.4, "pgd20_8": 48.0}, "params_M": 11.686962, "MACs_M": 555.42272, "latency_ms": 3.087490500001877, "autoattack_4": NaN} 7.0 min
+r18v2_plain clean acc 73.57 F1 73.02 | PGD8 acc 47.90 F1 46.16 | ASR8 35.2 | crit-eps mean 15.47 | 2.6 min
