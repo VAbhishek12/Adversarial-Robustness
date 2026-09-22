@@ -1,6 +1,5 @@
 # Do Smoothing and Denoising Modules Improve Adversarial Training? A Controlled Study on CIFAR-10
 
-Code and results behind the M.Tech thesis and the accompanying research paper (Vedula Abhishek, C-DAC Mohali, I.K. Gujral Punjab Technical University; supervisor Ms. Sonia Dosanjh).
 
 The study asks whether three architectural parts that are often added to adversarially trained CNNs (a frozen Gaussian smoothing layer, a residual denoising block and an average plus maximum pooling head) improve robustness on CIFAR-10 when every network is trained with one shared recipe and tested with strong attacks in pixel space. It also documents how a perturbation budget applied to a normalised input makes a defence look about four times stronger than it is.
 
